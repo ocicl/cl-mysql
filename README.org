@@ -4,6 +4,6 @@ Common Lisp MySQL library
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/hackinghat/cl-mysql.git |
-| commit  | 3fbf6e1                                        |
+| commit  | b273cf7                                        |
 | systems | cl-mysql                                       |
 |---------+------------------------------------------------|
